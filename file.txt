@@ -1,1 +1,5 @@
 This is a test file created for my Traning in Azure 
+
+ Now adding my first file notes in Development branch to test Merge command
+
+ This is next step adding file notes in testing branch to test Merge command how it merges both branches
